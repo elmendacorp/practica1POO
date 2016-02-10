@@ -27,8 +27,7 @@ class Vehiculo {
     public:
         void leerPorTeclado();
         void salidaPorPantalla();
-
-
+        
 };
 
 #endif /* VEHICULO_H */
