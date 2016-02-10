@@ -27,5 +27,6 @@ void Vehiculo::leerPorTeclado(){
 void Vehiculo::salidaPorPantalla(){
     cout << "Marca : " << this-> marca << endl;
     cout << "Modelo: " << this-> modelo << endl;
-    cout << "Matricula: "
+    cout << "Matricula: " << this-> matricula << endl;
+    cout << "Precio: " << this-> precio << endl;
 }
